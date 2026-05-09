@@ -1,0 +1,8 @@
+1::John Smith::1234567890::john.smith@email.com::false::
+2::Emma Johnson::2345678901::emma.j@email.com::false::
+3::Michael Brown::3456789012::michael.b@email.com::false::
+4::Sarah Davis::4567890123::sarah.davis@email.com::false::
+5::James Wilson::5678901234::james.w@email.com::false::
+6::Emily Taylor::6789012345::emily.taylor@email.com::true::
+7::Robert Anderson::7890123456::robert.a@email.com::false::
+8::Bidhan KC::9818928463::Bidhan@gmail.com::false::

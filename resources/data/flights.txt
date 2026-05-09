@@ -1,0 +1,17 @@
+1::BA123::London::Paris::2026-02-10::150::99.99::false::
+2::EZ456::Manchester::Rome::2026-03-15::180::129.99::false::
+3::LH789::Birmingham::Munich::2026-04-20::200::149.99::false::
+4::FR101::Edinburgh::Barcelona::2026-05-25::160::89.99::false::
+5::KL202::Glasgow::Amsterdam::2026-06-10::140::119.99::false::
+6::BA303::London::New York::2026-12-20::300::599.99::false::
+7::EZ404::Bristol::Prague::2026-02-07::120::79.99::false::
+8::LH505::Leeds::Berlin::2026-03-01::170::139.99::false::
+9::BA789::London::Dubai::2026-02-15::280::499.99::false::
+10::EZ234::Liverpool::Madrid::2026-03-20::150::109.99::false::
+11::FR567::Newcastle::Barcelona::2026-04-10::160::94.99::false::
+12::KL890::Southampton::Amsterdam::2026-05-05::130::124.99::false::
+13::BA456::London::Tokyo::2026-07-15::350::899.99::true::
+14::LH123::Cardiff::Frankfurt::2026-02-25::140::119.99::true::
+15::EZ789::Belfast::Lisbon::2026-03-30::130::99.99::false::
+16::LA543::KTM::PKH::2026-11-10::200::298.0::true::
+17::LH918::londooon::aaaaaaaaa::2026-02-12::100::293.0::false::
